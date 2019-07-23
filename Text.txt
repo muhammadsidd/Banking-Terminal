@@ -1,0 +1,17 @@
+Andrew	James	001	3500.24	32100.72
+Caroll	Walter	002	2187.19	9835.65
+Steve	Matthew	003	1324.77	4135.64
+Mitchel	Starc	004	382.45	29183.64
+Bradley	Cooper	005	372.98	27931.87
+Rick	James	006	1932.52	17342.02
+Arnold	Stanley	007	878.43	4182.11
+Lee	Bentderson	008	92.71	41320.44
+Foxing	Trot	009	34.76	5467.04
+Stuart	Broad	010	456.71	7867.55
+Graham	Bell	011	456.12	8999.39
+Morgan	Stanley	012	1834.12	23989.45
+John	Bell	013	167.43	3456.34
+Ashley	Cook	014	876.34	7898.54
+Jennie	Morgan	015	878.11	9878.43	
+Corey	Wilshere	16	45.67	9876.45
+laura	clark	17	586.34	78234.1
